@@ -1,0 +1,12 @@
+<map id="fs::MeetingControllerBase" name="fs::MeetingControllerBase">
+<area shape="rect" id="node1" title=" " alt="" coords="1014,5,1199,92"/>
+<area shape="rect" id="node2" href="$classfs_1_1_attendees_controller.html" title=" " alt="" coords="5,427,258,860"/>
+<area shape="rect" id="node3" href="$classfs_1_1_chat_controller.html" title=" " alt="" coords="282,580,466,707"/>
+<area shape="rect" id="node4" href="$classfs_1_1_presentation_broadcast_controller.html" title=" " alt="" coords="490,553,733,733"/>
+<area shape="rect" id="node5" href="$classfs_1_1_raw_r_t_messages_controller.html" title=" " alt="" coords="756,587,968,700"/>
+<area shape="rect" id="node6" href="$classfs_1_1_recording_broadcast_controller.html" title=" " alt="" coords="992,527,1220,760"/>
+<area shape="rect" id="node7" href="$classfs_1_1_r_t_notifications_controller.html" title=" " alt="" coords="1245,520,1442,767"/>
+<area shape="rect" id="node8" href="$classfs_1_1_screen_sharing_controller.html" title=" " alt="" coords="1467,140,1706,1147"/>
+<area shape="rect" id="node9" href="$classfs_1_1_video_controller.html" title=" " alt="" coords="1730,373,1973,913"/>
+<area shape="rect" id="node10" href="$classfs_1_1_vo_i_p_controller.html" title=" " alt="" coords="1997,553,2199,733"/>
+</map>

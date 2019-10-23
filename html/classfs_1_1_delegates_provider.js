@@ -1,0 +1,25 @@
+var classfs_1_1_delegates_provider =
+[
+    [ "getAttendeeDelegate", "classfs_1_1_delegates_provider.html#a4d52bb87197ecf55625fb2b74c8e52b0", null ],
+    [ "getBundledAttendeeDelegate", "classfs_1_1_delegates_provider.html#a50036d04c98ec6d58b9402dc4bd628b0", null ],
+    [ "getChatDelegate", "classfs_1_1_delegates_provider.html#a82d958c625d2336f54bef6a02135889b", null ],
+    [ "getPresentationBroadcasterDelegate", "classfs_1_1_delegates_provider.html#a5b373b784d1db7b74c846eb8d8cc4e6a", null ],
+    [ "getRawRTMessageDelegate", "classfs_1_1_delegates_provider.html#a8705c33c8643c2aecb450f1fb617a7b4", null ],
+    [ "getRecordingBroadcasterDelegate", "classfs_1_1_delegates_provider.html#a27f917addfee28cbc0e7b1f8f8f87b2d", null ],
+    [ "getScreenDelegate", "classfs_1_1_delegates_provider.html#a3a8a3b953eeb294385a17c0f13da5a5e", null ],
+    [ "getSessionDelegate", "classfs_1_1_delegates_provider.html#afb8654ee32b70cb5b4f70e157d6a6ea7", null ],
+    [ "getSpeakersDelegate", "classfs_1_1_delegates_provider.html#a888ab808c07054eac097abda65a78bdd", null ],
+    [ "getVideoDelegate", "classfs_1_1_delegates_provider.html#a3bb3a2485330438605fc3b00f6cfb4f7", null ],
+    [ "getVoIPDelegate", "classfs_1_1_delegates_provider.html#a6432b7a54c1a43c5b13710b1e5ffd45b", null ],
+    [ "setAttendeeDelegate", "classfs_1_1_delegates_provider.html#a96e73776da994c47a968e240a8ab3aa6", null ],
+    [ "setBundledAttendeeDelegate", "classfs_1_1_delegates_provider.html#a7b13550cd6c024e71244db90f45dd628", null ],
+    [ "setChatDelegate", "classfs_1_1_delegates_provider.html#a7cac080430edecf4a3c136fed4b6de2d", null ],
+    [ "setPresentationBroadcasterDelegate", "classfs_1_1_delegates_provider.html#a19f7bcba7511f5e96946fdf06cd3ea69", null ],
+    [ "setRawRTMessageDelegate", "classfs_1_1_delegates_provider.html#a74fccdde2a7f13e10292516c517692b2", null ],
+    [ "setRecordingBroadcasterDelegate", "classfs_1_1_delegates_provider.html#adfc623c47d2f827c76e7bb6e89448c2d", null ],
+    [ "setScreenDelegate", "classfs_1_1_delegates_provider.html#a6ceeb0e53b9ab987b4ea4479bae11f2f", null ],
+    [ "setSessionDelegate", "classfs_1_1_delegates_provider.html#aab7bbdfeaea225f35bd168ee953ac122", null ],
+    [ "setSpeakersDelegate", "classfs_1_1_delegates_provider.html#a5cb1da884734ffab157271b7e27309c3", null ],
+    [ "setVideoDelegate", "classfs_1_1_delegates_provider.html#ade216571005e4c145c2ffacfa38d1472", null ],
+    [ "setVoIPDelegate", "classfs_1_1_delegates_provider.html#a3e8020ae2af8e72ea59f57cc8d391d47", null ]
+];

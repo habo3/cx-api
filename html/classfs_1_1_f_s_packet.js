@@ -1,0 +1,35 @@
+var classfs_1_1_f_s_packet =
+[
+    [ "Entries", "classfs_1_1_f_s_packet.html#ae7025c5d30fb40642692131a73c15d13", null ],
+    [ "Ptr", "classfs_1_1_f_s_packet.html#a618d64d8e8a998450b7650d5c9e0aa9b", null ],
+    [ "Type", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121", [
+      [ "TYPE_None", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121a8b2ad875f5593d97337a54e4f9ef85ed", null ],
+      [ "TYPE_InfoBlock", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121a99f400b716e8a969d56357ff52091a63", null ],
+      [ "TYPE_SessionStatus", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121aa8161febf7246d0915d966d83f3e6b25", null ],
+      [ "TYPE_ScreenBlocks", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121a55b9073bf1e27f593b7c1f4fad48e4d5", null ],
+      [ "TYPE_Drop", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121ab599c71e2da7c485e46da024f143a1d2", null ],
+      [ "TYPE_CompoundMsg", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121a71e89cd5207f5b7dc5c16d6a97525e4b", null ],
+      [ "TYPE_ReconnectCtrl", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121aea8349ed78b5701b9cc74729cce3dd3c", null ],
+      [ "TYPE_EndOfFrame", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121ac2a1401029543ba134a81e55107f1eb7", null ],
+      [ "TYPE_ParticipantClick", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121ac43b3408ba6c98bf5d5925491e6190ea", null ],
+      [ "TYPE_Capabilities", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121a4745108a852f65b241095f00887460a6", null ],
+      [ "TYPE_DirectorPromote", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121a1fd5fce97b186547e57c7ffa5079cce0", null ],
+      [ "TYPE_DirectorPromoteStatus", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121a57e4d48e4d77d024a4bb2d1d8b4d9300", null ],
+      [ "TYPE_RemoteKeyboardData", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121a3d87b652184be950d1aa0bb011a4365d", null ],
+      [ "TYPE_RemoteMouseData", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121a471f620fd9f4f12f5e8ce8b3d6386ccb", null ],
+      [ "TYPE_RemoteScrollWheelData", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121aff8af2e41b381579a00a9d353578ced8", null ],
+      [ "TYPE_RemoteClipboardData", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121a12402879b8250f03223cd4347ce058a7", null ],
+      [ "TYPE_PresenterCursor", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121aebc982173b6afff7cb506cec62b21ded", null ],
+      [ "TYPE_PresenterTakeControl", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121a883fe7064dd4e203c90cbf2298be5e6a", null ],
+      [ "TYPE_PresenterReleaseControl", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121abee9e6d39e57fd29df052f49c4302875", null ],
+      [ "TYPE_DirectorRequest", "classfs_1_1_f_s_packet.html#a56a3d3423a6f847e51a74a509e649121a89d48764de90407319ba07a5c34524cb", null ]
+    ] ],
+    [ "FSPacket", "classfs_1_1_f_s_packet.html#a73b5b1427826a16a0c316f137907bfac", null ],
+    [ "~FSPacket", "classfs_1_1_f_s_packet.html#a2c6d5d533b0a26f49efc1a1a57b27c65", null ],
+    [ "entry", "classfs_1_1_f_s_packet.html#a9242e984cf1879198989d282babc04e8", null ],
+    [ "serialize", "classfs_1_1_f_s_packet.html#afc831691bce05c6a17b4c3b9c6d05cc9", null ],
+    [ "setEntry", "classfs_1_1_f_s_packet.html#a898e27fd58df48217e54de196874020b", null ],
+    [ "type", "classfs_1_1_f_s_packet.html#a8fc6fd69f94a8be5305018baf57cff01", null ],
+    [ "m_iType", "classfs_1_1_f_s_packet.html#ae1acb0c477efbb29526fd041cedcc848", null ],
+    [ "m_xEntries", "classfs_1_1_f_s_packet.html#a9827535bead98576afe6cd584d8183cc", null ]
+];

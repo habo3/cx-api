@@ -1,0 +1,27 @@
+var classcx_1_1web_1_1_a_p_iv4_wrapper =
+[
+    [ "APIv4Wrapper", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#a3116b225fa5c345e5c7960e30a68d7cc", null ],
+    [ "~APIv4Wrapper", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#a10b6e3d23cc83fa24a2ae83c3df32f5c", null ],
+    [ "authorizeByCodeScheme", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#a7f54365c179e1bb46f46a667b661e583", null ],
+    [ "authorizeByPassword", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#a430faef7ea068869c9d248874c3a3558", null ],
+    [ "getBroadcastResources", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#ae9beb6891ec880e15ec9ce8f780de910", null ],
+    [ "getConference", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#a3796cc217f84991f740df0ccdf6cb1b2", null ],
+    [ "getConferenceList", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#aab0e491e77980faac66e160628ee1aa3", null ],
+    [ "getCountryCode", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#a114541ad0fc91435bb04becad187c65a", null ],
+    [ "getCustomerService", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#af61e98a3b724f77c7dba8871605e4f84", null ],
+    [ "getEquipment", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#aaf4ef0c862d2fa637cb02155df1fb77c", null ],
+    [ "getEquipmentById", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#adfbfd6d2b8e14140e57a36db7540a58c", null ],
+    [ "getEquipmentByPhoneNumber", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#a20901dedc0423b6818ce1ccdb7adf631", null ],
+    [ "getInvitationText", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#ad7964c9a692bacff52983dd3b01f9044", null ],
+    [ "getRecording", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#a885460acea095b613b0a06be46d60418", null ],
+    [ "getSharedConfig", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#a021425035eac0e8f519203890a3f8a0d", null ],
+    [ "getShortUrl", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#a8313a653fa7de0c66348ed08f53dc359", null ],
+    [ "getSubscription", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#a861901f3aa0ba18263111d52b3bb413f", null ],
+    [ "getSubscriptionByMeetingUrl", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#ab3d072c887b360689b60f66ab37beffa", null ],
+    [ "getUser", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#a5688245ea9bf0f238ef02c99dcc8490c", null ],
+    [ "getWall", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#ac59e4af6aec174ac5de643c1a0e97a1a", null ],
+    [ "refreshAccessToken", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#a75c8c2f89d44e6ff2f0528445810c1be", null ],
+    [ "sendUserVote", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#a95c3e898f4e875744d91daf220b6b844", null ],
+    [ "updateSubscription", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#afbe71cd5cc51519e2936c5db4ff14c48", null ],
+    [ "upgradeAccessToken", "classcx_1_1web_1_1_a_p_iv4_wrapper.html#aca3eba69de69a861751bf1a1b1578d10", null ]
+];

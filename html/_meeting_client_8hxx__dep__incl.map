@@ -1,0 +1,40 @@
+<map id="/Users/oskryp/Projects/freesee&#45;native&#45;client/libs/fcc_sdk/engine/meetingclient/src/headers/MeetingClient/MeetingClient.hxx" name="/Users/oskryp/Projects/freesee&#45;native&#45;client/libs/fcc_sdk/engine/meetingclient/src/headers/MeetingClient/MeetingClient.hxx">
+<area shape="rect" id="node1" title=" " alt="" coords="2333,5,2623,71"/>
+<area shape="rect" id="node2" href="$_active_speaker_manager_8cxx.html" title=" " alt="" coords="5,125,225,191"/>
+<area shape="rect" id="node3" href="$_attendees_controller_8cxx.html" title=" " alt="" coords="249,125,469,191"/>
+<area shape="rect" id="node4" href="$_attendees_manager_8cxx.html" title=" " alt="" coords="493,125,713,191"/>
+<area shape="rect" id="node5" href="$_basic_handler_8cxx.html" title=" " alt="" coords="737,125,957,191"/>
+<area shape="rect" id="node6" href="$_broadcast_handler_8cxx.html" title=" " alt="" coords="981,125,1201,191"/>
+<area shape="rect" id="node7" href="$_bundled_attendee_8cxx.html" title=" " alt="" coords="1225,125,1445,191"/>
+<area shape="rect" id="node8" href="$_chat_controller_8cxx.html" title=" " alt="" coords="1469,125,1689,191"/>
+<area shape="rect" id="node9" href="$_meeting_client_session_8hxx.html" title=" " alt="" coords="1713,119,1979,197"/>
+<area shape="rect" id="node27" href="$_meeting_attendee_8cxx.html" title=" " alt="" coords="2003,125,2223,191"/>
+<area shape="rect" id="node28" href="$_meeting_client_8cxx.html" title=" " alt="" coords="2247,125,2467,191"/>
+<area shape="rect" id="node29" href="$_meeting_controller_base_8cxx.html" title=" " alt="" coords="2491,125,2711,191"/>
+<area shape="rect" id="node30" href="$_presentation_controller_8cxx.html" title=" " alt="" coords="2735,125,2955,191"/>
+<area shape="rect" id="node31" href="$_raw_r_t_messages_controller_8cxx.html" title=" " alt="" coords="2979,125,3211,191"/>
+<area shape="rect" id="node32" href="$_recording_controller_8cxx.html" title=" " alt="" coords="3236,125,3456,191"/>
+<area shape="rect" id="node33" href="$_r_t_notifications_controller_8cxx.html" title=" " alt="" coords="3480,125,3700,191"/>
+<area shape="rect" id="node34" href="$_screen_sharing_controller_8cxx.html" title=" " alt="" coords="3724,125,3944,191"/>
+<area shape="rect" id="node35" href="$_video_controller_8cxx.html" title=" " alt="" coords="3968,125,4188,191"/>
+<area shape="rect" id="node36" href="$_video_engine_proxy_8cxx.html" title=" " alt="" coords="4212,125,4432,191"/>
+<area shape="rect" id="node37" href="$_voice_engine_proxy_8cxx.html" title=" " alt="" coords="4456,125,4676,191"/>
+<area shape="rect" id="node38" href="$_vo_i_p_controller_8cxx.html" title=" " alt="" coords="4700,125,4920,191"/>
+<area shape="rect" id="node10" href="$_meeting_lobby_8hxx.html" title=" " alt="" coords="1609,245,1899,311"/>
+<area shape="rect" id="node11" href="$_meeting_lobby_impl_8hxx.html" title=" " alt="" coords="1438,359,1705,437"/>
+<area shape="rect" id="node13" href="$_meeting_client_impl_8hxx.html" title=" " alt="" coords="1823,359,2050,437"/>
+<area shape="rect" id="node26" href="$_meeting_client_session_8cxx.html" title=" " alt="" coords="1973,245,2193,311"/>
+<area shape="rect" id="node12" href="$_meeting_lobby_imp_8cxx.html" title=" " alt="" coords="1021,492,1241,557"/>
+<area shape="rect" id="node14" href="$_meeting_attendee_impl_8hxx.html" title=" " alt="" coords="1315,485,1542,564"/>
+<area shape="rect" id="node15" href="$_meeting_attendee_feature_impl_8hxx.html" title=" " alt="" coords="1053,612,1279,691"/>
+<area shape="rect" id="node17" href="$_meeting_client_impl_8cxx.html" title=" " alt="" coords="2008,739,2231,804"/>
+<area shape="rect" id="node19" href="$_meeting_broadcast_feature_impl_8hxx.html" title=" " alt="" coords="1621,612,1849,691"/>
+<area shape="rect" id="node20" href="$_meeting_chat_feature_impl_8hxx.html" title=" " alt="" coords="1874,612,2101,691"/>
+<area shape="rect" id="node21" href="$_meeting_screen_sharing_feature_impl_8hxx.html" title=" " alt="" coords="2125,612,2381,691"/>
+<area shape="rect" id="node22" href="$_meeting_video_feature_impl_8hxx.html" title=" " alt="" coords="2405,612,2631,691"/>
+<area shape="rect" id="node23" href="$_meeting_vo_i_p_feature_impl_8hxx.html" title=" " alt="" coords="2075,485,2302,564"/>
+<area shape="rect" id="node24" href="$_raw_r_t_messages_feature_impl_8hxx.html" title=" " alt="" coords="2326,485,2553,564"/>
+<area shape="rect" id="node25" href="$_free_see_a_p_i2_impl_8cxx.html" title=" " alt="" coords="2576,492,2798,557"/>
+<area shape="rect" id="node18" href="$_meeting_attendee_impl_8cxx.html" title=" " alt="" coords="1303,619,1546,684"/>
+<area shape="rect" id="node16" href="$_meeting_attendee_feature_impl_8cxx.html" title=" " alt="" coords="1022,739,1310,804"/>
+</map>

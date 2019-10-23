@@ -1,0 +1,28 @@
+var classfs_1_1_video_engine_proxy =
+[
+    [ "VideoEngineProxy", "classfs_1_1_video_engine_proxy.html#a205117e6f9ff92373269758d2ee5ca78", null ],
+    [ "~VideoEngineProxy", "classfs_1_1_video_engine_proxy.html#ab5841333723902ba938ee8bdd8e32617", null ],
+    [ "dispatch", "classfs_1_1_video_engine_proxy.html#af3f186080747a546142c5183e29a1683", null ],
+    [ "enableSelfView", "classfs_1_1_video_engine_proxy.html#a6bbcbb4dcd115ff7bb63f9d8a9364c09", null ],
+    [ "getCaptureCapabilities", "classfs_1_1_video_engine_proxy.html#a4bf53371d62cabcb0adadc5922f91275", null ],
+    [ "getCaptureCapability", "classfs_1_1_video_engine_proxy.html#adfaac5170ab33a7be56ded779eabdc63", null ],
+    [ "getCaptureDevice", "classfs_1_1_video_engine_proxy.html#a321a9345324088e487923ea5c4bad477", null ],
+    [ "getCaptureDevices", "classfs_1_1_video_engine_proxy.html#ac77eb97e936ce6d14bb6c61a0b7f20fc", null ],
+    [ "getConferenceMode", "classfs_1_1_video_engine_proxy.html#a8320000e559e98c3cc5ccd8de72d2848", null ],
+    [ "getVideoStatistics", "classfs_1_1_video_engine_proxy.html#a5bdfdc160eea777aa42d86d760b2e646", null ],
+    [ "isStarted", "classfs_1_1_video_engine_proxy.html#a582a1b50b6f775226451d8eadf8d6595", null ],
+    [ "isVideoCapturingStarted", "classfs_1_1_video_engine_proxy.html#a343f3c219d81a218d1446dff4ce58e08", null ],
+    [ "lockVideoPresenter", "classfs_1_1_video_engine_proxy.html#a8f369efd307c64ddf649d8ca4c9e5d19", null ],
+    [ "onStartVideoCapturing", "classfs_1_1_video_engine_proxy.html#aad5c1884afb98026f228c8ca77cf920b", null ],
+    [ "presentersStack", "classfs_1_1_video_engine_proxy.html#add48a5978b81c3d97fb91acb7285a4c3", null ],
+    [ "rewindSidebar", "classfs_1_1_video_engine_proxy.html#a89041c68d5f7da0c6ae694cf452332a9", null ],
+    [ "selectPresenter", "classfs_1_1_video_engine_proxy.html#a36ccf40ff9be7340f0eecf3f0ad06811", null ],
+    [ "setConferenceMode", "classfs_1_1_video_engine_proxy.html#a6c8a741db978382b13c94a27abba0acd", null ],
+    [ "startVideoCapturing", "classfs_1_1_video_engine_proxy.html#adce38cf326ac804cf72b789614435168", null ],
+    [ "startVideoCapturing", "classfs_1_1_video_engine_proxy.html#a62d70acefaec89c552f6d39db58d1539", null ],
+    [ "startVideoRenderer", "classfs_1_1_video_engine_proxy.html#aa136fd2aca9c71d26ab1f9d3657ffbf2", null ],
+    [ "stopVideoCapturing", "classfs_1_1_video_engine_proxy.html#afb4c4e86679c09f34f695ab9c7b2a1b8", null ],
+    [ "stopVideoRenderer", "classfs_1_1_video_engine_proxy.html#aaef63c0919ab409dcef08a20f63840cb", null ],
+    [ "stopVideoRenderer", "classfs_1_1_video_engine_proxy.html#a55ed0ce42edef303a70d0adadfd24bc3", null ],
+    [ "update", "classfs_1_1_video_engine_proxy.html#ad8b61356aef86924e42ea015268c0582", null ]
+];

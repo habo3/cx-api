@@ -1,0 +1,18 @@
+<map id="fs::ScreenSharingController::onFSPropertyChanged" name="fs::ScreenSharingController::onFSPropertyChanged">
+<area shape="rect" id="node1" title=" " alt="" coords="5,216,190,255"/>
+<area shape="rect" id="node2" href="$classfs_1_1_screen_sharing_controller.html#a869e5a50dd78a97f7bc9042d9a6f52ba" title=" " alt="" coords="238,216,424,255"/>
+<area shape="rect" id="node3" href="$classfs_1_1_buffer.html#a6a6885855eee316313c5db69071b20aa" title=" " alt="" coords="508,55,628,80"/>
+<area shape="rect" id="node6" href="$classfs_1_1_f_s_packet.html#a5fbe0bc7898355774cf37d22a7278cd5" title=" " alt="" coords="484,104,652,129"/>
+<area shape="rect" id="node8" href="$classfs_1_1_screen_sharing_controller.html#a1099e31f1e66a059b03ec205d466cbbc" title=" " alt="" coords="476,153,661,192"/>
+<area shape="rect" id="node9" href="$classfs_1_1_screen_sharing_controller.html#a7be66af119d6a03f27097bc91008a7df" title=" " alt="" coords="476,216,661,255"/>
+<area shape="rect" id="node10" href="$classfs_1_1_screen_sharing_controller.html#a006e36d1e2ab98aa05d34ecdcc551e56" title=" " alt="" coords="476,279,661,317"/>
+<area shape="rect" id="node14" href="$classfs_1_1_screen_sharing_controller.html#aa240dcbbdfba042f0d6f452ec09c48c6" title=" " alt="" coords="476,341,661,380"/>
+<area shape="rect" id="node16" href="$classfs_1_1_screen_sharing_controller.html#a93a8c4ebea6879a0e22d2021b7cd6cc5" title=" " alt="" coords="472,404,665,443"/>
+<area shape="rect" id="node4" href="$classfs_1_1_buffer.html#aaeaf7aacea3679ca4956d6b50543f1aa" title=" " alt="" coords="742,5,869,31"/>
+<area shape="rect" id="node5" href="$classfs_1_1_buffer.html#af8ec6ec556d0227cbcb57d40e2d2fb06" title=" " alt="" coords="750,55,861,80"/>
+<area shape="rect" id="node7" href="$classfs_1_1_buffer.html#afd053fdf33cfaffda826dcd907c5a7c9" title=" " alt="" coords="750,104,861,129"/>
+<area shape="rect" id="node11" href="$classfs_1_1_f_s_presenter_cursor_pkt.html#abc4e2a3c8166f59381a3c179c51b96fa" title=" " alt="" coords="719,216,892,255"/>
+<area shape="rect" id="node12" href="$classfs_1_1_f_s_presenter_cursor_pkt.html#a2ae7b4a9b5847de438a3d7a44703b212" title=" " alt="" coords="719,279,892,317"/>
+<area shape="rect" id="node13" href="$classfs_1_1_f_s_presenter_cursor_pkt.html#a8f3143d25bf26ed99b54e3441598f4ab" title=" " alt="" coords="719,341,892,380"/>
+<area shape="rect" id="node15" href="$classfs_1_1_screen_sharing_controller.html#a02320665ae88198b0bcb2da8f9e04496" title=" " alt="" coords="713,404,898,443"/>
+</map>
